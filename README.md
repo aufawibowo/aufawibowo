@@ -8,7 +8,10 @@ While most of his time was spent in post-PMF companies, he also has been on a ve
 
 # 💼 Career
 
-I'm currently working as a Software Engineer at Mekari building [Mekari Stream](http://stream.mekari.com/) (a data extraction service).
+Currently pursuing personal goals (experimenting with what-ifs), doing:
+
+- learn and experiment with scalable and robust ML-first product
+- ⏳ working on ML-based product (will launch soon) 🏗️🚀
 
 # ⚒️ Familiar Tech Stack
 
